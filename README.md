@@ -15,7 +15,7 @@
 ## 软件准备
 - Keil 软件
 - USB 转串口驱动
-- STC-ISP 烧写器
+- STC-ISP 烧写软件
 
 ## 整活列表
 - [点亮LED](https://github.com/dannycn/learing-51/tree/master/led-start)
